@@ -39,7 +39,7 @@ AR部分需要识别marker并确定其坐标与朝向
 工程结构
 ------------------
 主目录
-* Project.zip-Unity工程文件
+* Asset.zip-Unity工程文件的资源部分，删去了占地过大的vuforia源码部分，unity版本2021.2.5f1c1,vuforia10-3-2
 
 * AROpticFin.apk-Demo的apk安装包
 
