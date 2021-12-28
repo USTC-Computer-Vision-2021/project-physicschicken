@@ -34,7 +34,7 @@ AR部分需要识别marker并确定其坐标与朝向
 
 效果展示
 ------------------
-![image](https://github.com/USTC-Computer-Vision-2021/project-physicschicken/readmeResources/result.gif)
+![image](https://github.com/USTC-Computer-Vision-2021/project-physicschicken/blob/main/readmeResources/result.gif)
 
 工程结构
 ------------------
