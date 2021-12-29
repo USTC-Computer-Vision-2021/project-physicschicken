@@ -43,6 +43,8 @@ AR部分需要识别marker并确定其坐标与朝向
 
 * AROpticFin.apk-Demo的apk安装包
 
+* ARproduction算法复现及简易结果
+
 * markers-marker图像文件夹
 
 * readmeResource-readme文件中图片保存目录
